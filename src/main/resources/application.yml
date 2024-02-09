@@ -16,3 +16,4 @@ spring:
 management:
   security:
     roles: ADMIN
+
